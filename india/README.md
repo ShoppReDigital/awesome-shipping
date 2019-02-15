@@ -2,6 +2,6 @@
 
 ## Companies
 
-- [Delhivery](https://www.delhivery.com/)
+- [Delhivery](india/companies/delhivery)
 - [DTDC](http://www.dtdc.in/)
 - [ECom](https://ecomexpress.in/)
