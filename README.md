@@ -1,4 +1,4 @@
-# awesome-shipping
+# Awesome Shipping
 
 ### Guidelines for Contribution
 - [Directory Structure](https://en.wikipedia.org/wiki/ISO_3166-2) 
